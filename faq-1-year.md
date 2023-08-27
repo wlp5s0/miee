@@ -29,9 +29,9 @@
 
 * Где купить бытовую технику, холодильник, микроволновку.
 
-Группа ВК “Бартер Студгородок МИЭТ”: [vk.com/barter_miet]().
+Группа ВК “Бартер Студгородок МИЭТ”: [vk.com/barter_miet](http://vk.com/barter_miet).
 
-Ближайшие магазины: [dns-shop.ru](), [citilink.ru](), [onlinetrade.ru](), [mvideo.ru]().
+Ближайшие магазины: [dns-shop.ru](http://dns-shop.ru), [citilink.ru](http://citilink.ru), [onlinetrade.ru](http://onlinetrade.ru), [mvideo.ru](http://mvideo.ru).
 
 * Где купить уборочный инвентарь, хозяйственные товары.
 
@@ -62,7 +62,7 @@
 
 * Какой удлинитель купить.
 
-Для крупной бытовой техники (чайник, микроволновка) недопустимо использовать удлинители “подешевле”. Рекомендуемый минимум: удлинитель с нагрузочной способностью 10 А / 2.3 кВт; лучше: 16 А / 3.7 кВт. Такой нагрузке соответствует сечение кабеля 3x1 мм2, 3x1.5 мм2, 3x2.5 мм2.Пример: [onlinetrade.ru]() [арт. 3233279](https://www.onlinetrade.ru/catalogue/setevye_filtry_udliniteli_troyniki-c171/iek/udlinitel_iek_3kh3m_s_zazeml_16a_250v_u03_uno_2p_pe_3kh1.5kv.mm_wyp53_16_03_03_z-3233279.html), [арт. 2269096](https://www.onlinetrade.ru/catalogue/setevye_filtry_udliniteli_troyniki-c171/5bites/setevoy_filtr_5bites_sp5w_330_5_rozetok_16a_3m_belyy-2269096.html); [dns-shop.ru]() [арт. 1345061](https://www.dns-shop.ru/product/49e178e73b143332/setevoj-filtr-finepower-standard-630b-cernyj/).Для остальной техники с меньшей мощностью (ноутбук, монитор, ПК) допустимы сетевые фильтры с заявленной нагрузочной способностью 10 А / 2.3 кВт и сечением 3x0.75 мм2 и больше.Пример: [onlinetrade.ru]() [арт. 2351117](https://www.onlinetrade.ru/catalogue/setevye_filtry_udliniteli_troyniki-c171/5bites/setevoy_filtr_5bites_sp5b_110_5s_3_0.75mm2_1m_black-2351117.html), [арт. 3160486](https://www.onlinetrade.ru/catalogue/setevye_filtry_udliniteli_troyniki-c171/kosmos_elektro/setevoy_filtr_kosmos_4kh1.5m_s_zazeml_10a_ip20_2.2kvt_s_pred_3kh0.75_indik_seti_belyy_fksm1.5m_4g_w-3160486.html).
+Для крупной бытовой техники (чайник, микроволновка) недопустимо использовать удлинители “подешевле”. Рекомендуемый минимум: удлинитель с нагрузочной способностью 10 А / 2.3 кВт; лучше: 16 А / 3.7 кВт. Такой нагрузке соответствует сечение кабеля 3x1 мм2, 3x1.5 мм2, 3x2.5 мм2.Пример: [onlinetrade.ru](http://onlinetrade.ru) [арт. 3233279](https://www.onlinetrade.ru/catalogue/setevye_filtry_udliniteli_troyniki-c171/iek/udlinitel_iek_3kh3m_s_zazeml_16a_250v_u03_uno_2p_pe_3kh1.5kv.mm_wyp53_16_03_03_z-3233279.html), [арт. 2269096](https://www.onlinetrade.ru/catalogue/setevye_filtry_udliniteli_troyniki-c171/5bites/setevoy_filtr_5bites_sp5w_330_5_rozetok_16a_3m_belyy-2269096.html); [dns-shop.ru](http://dns-shop.ru) [арт. 1345061](https://www.dns-shop.ru/product/49e178e73b143332/setevoj-filtr-finepower-standard-630b-cernyj/).Для остальной техники с меньшей мощностью (ноутбук, монитор, ПК) допустимы сетевые фильтры с заявленной нагрузочной способностью 10 А / 2.3 кВт и сечением 3x0.75 мм2 и больше.Пример: [onlinetrade.ru](http://onlinetrade.ru) [арт. 2351117](https://www.onlinetrade.ru/catalogue/setevye_filtry_udliniteli_troyniki-c171/5bites/setevoy_filtr_5bites_sp5b_110_5s_3_0.75mm2_1m_black-2351117.html), [арт. 3160486](https://www.onlinetrade.ru/catalogue/setevye_filtry_udliniteli_troyniki-c171/kosmos_elektro/setevoy_filtr_kosmos_4kh1.5m_s_zazeml_10a_ip20_2.2kvt_s_pred_3kh0.75_indik_seti_belyy_fksm1.5m_4g_w-3160486.html).
 
 * Выделенная на комнату мощность
 
@@ -112,3 +112,9 @@ __До Москвы (D3)__:
 <img width="60%" src="./faq-misc/img12.png">
 
 __Оплата в автобусах__: банковская карта, карта Тройка, социальная карта Москвича (выдаются в сентябре) – проездной. Пополнение через приложения в телефоне, терминалы на ост. Океан и м. Ховрино.
+
+## Полезные ссылки
+
+В этом разделе просто перечислю полезные мелочи, которые нужны при существовании в общаге.
+
+* [Светодиодные лампочки ]()
