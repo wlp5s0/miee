@@ -141,4 +141,6 @@ __Оплата в автобусах__: банковская карта, кар�
 
 * [Светодиодные лампочки  e14/e27 в onlinetrade](https://www.onlinetrade.ru/catalogue/svetodiodnye_lampochki-c4529/?selling[]=7&price1=40&price2=9555&socle[]=E27&socle[]=E14&advanced_search=1&preset_id=0&rating_active=0&special_active=1&selling_active=1&producer_active=1&price_active=0&filamentnie_filament_active=1&dimmiruemaya_active=1&socle_active=1&power_active=1&light_power_active=1&color_t_active=1&forma_lampochki_active=1&voltage_active=1&cat_id=4529) (слегка дешевле чем в розницу)
 
+<hr>
 
+> *Обратная связь по данному гиту: @wlp5s0 тг/вк Данил*
