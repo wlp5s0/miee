@@ -146,6 +146,8 @@ __Оплата в автобусах__: банковская карта, кар�
 
 * [Светодиодные лампочки  e14/e27 в onlinetrade](https://www.onlinetrade.ru/catalogue/svetodiodnye_lampochki-c4529/?selling[]=7&price1=40&price2=9555&socle[]=E27&socle[]=E14&advanced_search=1&preset_id=0&rating_active=0&special_active=1&selling_active=1&producer_active=1&price_active=0&filamentnie_filament_active=1&dimmiruemaya_active=1&socle_active=1&power_active=1&light_power_active=1&color_t_active=1&forma_lampochki_active=1&voltage_active=1&cat_id=4529) (слегка дешевле чем в розницу)
 
+* [Патч корды 5м до 200р](https://www.onlinetrade.ru/catalogue/patch_kordy-c713/?selling[]=7&price1=10&price2=16999&length[]=5%20%EC&advanced_search=1&preset_id=0&rating_active=0&special_active=1&selling_active=1&producer_active=1&price_active=0&tip_active=1&tip_kabelya_active=1&length_active=1&category_active=1&kolichestvo_gil_active=1&material_provodnika_active=1&tip_prokladki_active=1&material_obolochki_active=0&tsvet_active=0&cat_id=713)
+
 * [Группа ВК Студофис МИЭТ](https://vk.com/studofficemiet) - тут появятся новости о расписании, стипендиях и прочих плюшках
 * [Группа ВК Первый МИЭТовский](https://vk.com/miet_one) - тут мероприятия и вся жизнь ВУЗа
 
